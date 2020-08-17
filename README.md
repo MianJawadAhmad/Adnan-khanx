@@ -18,8 +18,8 @@ Hi, I'm Adnan Khan
 I'm a data enthusiast with an ability to turn the data into actionable insights, Always try to learn like models of Machine Learning :smile:
 
 I work on ...
-* # Machine Learning
-* # Data Science
-* # Deep Learning
-* # Computer Vision
-* # Django
+* #### Machine Learning
+* #### Data Science
+* #### Deep Learning
+* #### Computer Vision
+* #### Django
