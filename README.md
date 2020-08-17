@@ -24,5 +24,5 @@ I work on :computer:
 * #### Computer Vision
 * #### Django
 Let's connect on
-[![Twitter: Adnankhan](https://img.shields.io/twitter/follow/Adnankhan.16?style=social)](https://twitter.com/adk47_)
+[![Twitter: Adnankhan]https://img.shields.io/twitter/url?logo=Adnan%20Khan&style=social&url=https%3A%2F%2Ftwitter.com%2Fadk47_
 [![Linkedin:Adnankhan](https://img.shields.io/badge/-Adnankhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adnan-khanx/)](https://www.linkedin.com/in/adnan-khanx/)
