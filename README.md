@@ -23,6 +23,5 @@ I work on :computer:
 * #### Deep Learning
 * #### Computer Vision
 * #### Django
-Let's connect on
-[![Twitter: Adnankhan]https://img.shields.io/twitter/url?logo=Adnan%20Khan&style=social&url=https%3A%2F%2Ftwitter.com%2Fadk47_
+Let's connect on : 
 [![Linkedin:Adnankhan](https://img.shields.io/badge/-Adnankhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adnan-khanx/)](https://www.linkedin.com/in/adnan-khanx/)
