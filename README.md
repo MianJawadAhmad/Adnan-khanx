@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 Hi, I'm Adnan Khan 
 I'm a data enthusiast with an ability to turn the data into actionable insights, Always try to learn like models of Machine Learning :smile:
 
-I work on ...
+I work on :computer:
 * #### Machine Learning
 * #### Data Science
 * #### Deep Learning
 * #### Computer Vision
 * #### Django
+Let's connect on
+[![Twitter: Adnankhan](https://img.shields.io/twitter/follow/Adnankhan.16?style=social)](https://twitter.com/adk47_)
+[![Linkedin:Adnankhan](https://img.shields.io/badge/-Adnankhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adnan-khanx/)](https://www.linkedin.com/in/adnan-khanx/)
