@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Adnan Khan 
+I'm a data enthusiast with an ability to turn the data into actionable insights, Always try to learn like models of Machine Learning :smile:
+
+I work on ...
+* #Machine Learning
+* #Data Science
+* #Deep Learning
+* #Computer Vision
+* #Django
