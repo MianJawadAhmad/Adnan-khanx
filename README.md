@@ -23,6 +23,9 @@ I work on :computer:
 * #### Deep Learning
 * #### Computer Vision
 * #### Django
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnan-khanx&show_icons=true) 
+
 Let's connect on : 
 
 
